@@ -183,23 +183,24 @@
           <div class="col-sm-12 col-md-6 col-lg-6 col-12">
             <h1><span class="text-primary">Who</span> I'm</h1>
             <hr class="custom-hr"/>
-            I'm a passionate front-end developer with a keen eye for detail and
-            a love for creating beautiful,
-            user-centric web experiences. I've honed my skills in HTML, CSS, and
-            JavaScript to bring designs to life and
-            craft seamless interfaces that captivate and engage users.
-
-            My journey into front-end development began with a fascination for
-            the intersection of design and
-            technology. I thrive on the challenge of turning static designs into
-            dynamic, interactive web experiences
-            that not only look great but also function flawlessly across devices
-            and browsers.
+            <span style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">I'm a passionate front-end developer with a keen eye for detail and
+              a love for creating beautiful,
+              user-centric web experiences. I've honed my skills in HTML, CSS, and
+              JavaScript to bring designs to life and
+              craft seamless interfaces that captivate and engage users.
+  
+              My journey into front-end development began with a fascination for
+              the intersection of design and
+              technology. I thrive on the challenge of turning static designs into
+              dynamic, interactive web experiences
+              that not only look great but also function flawlessly across devices
+              and browsers.
+        </span> 
 
             <h1 class="mt-5"><span class="text-primary">What</span> I do</h1>
             <hr class="custom-hr" />
 
-            <p>As a front-end developer, I specialize in transforming design
+            <p style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">As a front-end developer, I specialize in transforming design
               concepts into clean, efficient code. I have
               a deep understanding of responsive design principles, ensuring
               that websites and applications look and
@@ -269,12 +270,12 @@
             <h1 class="text-danger"><i><u>Summary</u></i></h1>
             <div class="resume-item pb-0">
               <h4>Ronit Gupta</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+
+              <p style="font-family: 'Times New Roman', Times, serif; font-size: 20px;"><em>Innovative and deadline-driven Graphic Designer with 3+
                   years of experience designing and developing
                   user-centered digital/print marketing material from initial
                   concept to final, polished deliverable.</em>
               </p>
-              <ul>
+              <ul style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">
                 <li>A9 Apartment</li>
                 <li>8094175275</li>
                 <li><a href="gronit132@gmail.com">gronit132@gmail.com</a></li>
@@ -284,13 +285,13 @@
             <h1 class="text-danger" data-aos="fade-left" data-aos-offset="250"><i><u>Education</u></i></h1>
             <div class="resume-item" data-aos="fade-left" data-aos-offset="250">
               <h4>Masters in Computer Science And Application</h4>
-              <h5>2023-2025</h5>
-              <p><em>Poornima University</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam
+              <h5 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">2023-2025</h5>
+              <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;"><em>Poornima University</em></p>
+              <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam
                 iusto autem sit. Ea vero voluptatum qui
                 ut dignissimos deleniti nerada porti sand markend</p>
             </div>
-            <div class="resume-item">
+            <div class="resume-item" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">
               <h4>Bachelor of Commerce</h4>
               <h5>2020-2023</h5>
               <p><em>Rajasthan University</em></p>
@@ -305,12 +306,12 @@
             data-aos-delay="100">
             <h3 class="text-danger"><i><u>Professional Experience</u></i></h3>
             <div class="resume-item">
-              <h4>At Present I m working and i m learning about the tools and
+              <h4 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">At Present I m working and i m learning about the tools and
                 technologies as a front-end engneer as a
                 intern</h4>
-              <h5>2024 - Present</h5>
-              <p><em>Softrow IT solution Pvt Ltd company</em></p>
-              <ul>
+              <h5 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">2024 - Present</h5>
+              <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;"><em>Softrow IT solution Pvt Ltd company</em></p>
+              <ul style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">
                 <li>I m learning about the core concepts of Front-end</li>
                 <li>Learning that how to working on layouts and making the
                   webpages.</li>
@@ -332,7 +333,7 @@
           <div class="col-sm-12 col-md-6 col-lg-6 col-12">
             <h2 class="text-danger"><u>Project 1</u></h2>
             <h3><span class="text-primary">Arsha Website</span></h3>
-            <ul>
+            <ul style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">
               <li>In this project make the whole website</li>
               <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Architecto, suscipit.</li>
@@ -346,7 +347,7 @@
           <div class="col-sm-12 col-md-6 col-lg-6 col-12">
             <h2 class="text-danger" data-aos="fade-left" data-aos-offset="250"><u>Project 2</u></h2>
             <h3><span class="text-primary" data-aos="fade-left" data-aos-offset="250">Myntra Clone</span></h3>
-            <ul>
+            <ul style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">
               <li>In this website we can add an item in the cart</li>
               <li>this is my running project at present</li>
               <li>Writtern in HTML CSS Boostrap</li>
@@ -356,7 +357,7 @@
             <h2 class="text-danger" data-aos="fade-left" data-aos-offset="250"><u>Project 3</u></h2>
             <h2><span class="text-success" data-aos="fade-left" data-aos-offset="250">Mini Project</span></h2>
             <h2><span class="text-primary"data-aos="fade-left" data-aos-offset="250">Calculator</span></h2>
-            <ul>
+            <ul style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;">
               <li>This project is used to knowing about the basing khowledge of
                 HTML And CSS</li>
               <li>Writtern in HTML And CSS</li>
@@ -368,28 +369,45 @@
           </div>
         </div>
       </div>
-      <section class="certificate" id="Certificate">
-        <div class="container text-center mt-5">
-          <h1><span class="text-danger">Certificates</span></h1>
-          <hr class="custom-hr" />
-          <div class="container text-center">
-            <div class="row">
-              <div class="col-lg-4 col-md-4 col-sm-6 mt-5">
-                <img src="carti.jpg" alt style="height: 150px; width: 200px;">
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6 mt-5">
-                <img src="carti.jpg" alt style="height: 150px; width: 200px;">
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-6 mt-5">
-                <img src="carti.jpg" alt style="height: 150px; width: 200px;">
-              </div>
+      <section class="Certificate my-5" id="Certificate">
+    <div class="container text-center mt-4">
+      <h2  data-aos="fade-left" data-aos-offset="250"><span class="text-danger">Certificates</span></h2>
+      <hr class="custom-hr" />
+      <div class="row">
+        <div class="col-lg-4 col-md-6 my-3">
+          <div class="card">
+            <img src="carti.jpg" class="card-img-top" alt="Certificate 1">
+            <div class="card-body">
+              <h5 class="card-title">Front-end Development</h5>
+              <p class="card-text">Certified front-end developer with expertise in HTML, CSS, and JavaScript.</p>
             </div>
           </div>
         </div>
-      </section>
+        <div class="col-lg-4 col-md-6 my-3">
+          <div class="card">
+            <img src="carti.jpg" class="card-img-top" alt="Certificate 2">
+            <div class="card-body">
+              <h5 class="card-title">Python Programming</h5>
+              <p class="card-text">Completed a comprehensive Python programming course covering all the essential concepts.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 my-3">
+          <div class="card">
+            <img src="carti.jpg" class="card-img-top" alt="Certificate 3">
+            <div class="card-body">
+              <h5 class="card-title">MySQL Database Management</h5>
+              <p class="card-text">Achieved certification in MySQL database management, showcasing skills in database design and querying.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
       <section class="contact" id="contact">
         <div class="container text-center mt-5">
-          <h1>Contact <span class="text-danger">Me</span></h1>
+          <h1  data-aos="fade-left" data-aos-offset="250">Contact <span class="text-danger">Me</span></h1>
           <hr class="custom-hr" />
           <div class="container text-center">
             <div class="row">
@@ -405,23 +423,28 @@
                       <div class="row">
                         <div class="form-group col-md-6 mt-5">
                           <label for="name">Your Name</label>
-                          <input type="text" name="name" class="form-control"
+                          <input type="text" name="name" placeholder="Name" class="form-control"
                             id="name" required>
                         </div>
                         <div class="form-group col-md-6 mt-5">
                           <label for="name">Your Email</label>
-                          <input type="email" class="form-control" name="email"
+                          <input type="email" class="form-control" name="email" placeholder="Your Email"
                             id="email" required>
                         </div>
                       </div>
+                      <div class="form-group col-md-6">
+                        <label for="Phone">Phone Number</label>
+                        <input type="phone" class="form-control" name="phone" placeholder="+91 123-4567890"
+                          id="email" required>
+                      </div>
                       <div class="form-group">
                         <label for="name">Subject</label>
-                        <input type="text" class="form-control" name="subject"
+                        <input type="text" class="form-control" name="subject" placeholder="Add a subject"
                           id="subject" required>
                       </div>
                       <div class="form-group">
                         <label for="name">Message</label>
-                        <textarea class="form-control" name="message" rows="10"
+                        <textarea class="form-control" name="message" placeholder="Sent a message" rows="10"
                           required></textarea>
                       </div>
                       <div class="my-3">
